@@ -1,3 +1,7 @@
+Location of workbook
+
+https://github.com/mad24x/Module_17_1_ARN/blob/main/Classifiers_workbook.ipynb
+
 Comparing Classifiers for Marketing Bank Products
 
 Business Understanding
